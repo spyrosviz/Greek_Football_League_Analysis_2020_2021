@@ -1,7 +1,7 @@
 # Greek_Football_League_Analysis_2020_2021
 
 ## Aim of Project:
-Derive useful insights from greek football league 2020-2021 by mean statistics on aggregated data, as well as on individual team level
+This project aims in deriving useful insights from greek football league 2020-2021 by mean statistics on aggregated data, as well as on individual team level. In addition it aims on evaluating bookmaker's (B365) accuracy.
 
 ## Source of Data
 Data were found on [football-data.uk.com](https://www.football-data.co.uk/data.php) as a csv file.
